@@ -8,7 +8,6 @@ Things you gonna need first.
 * Dokcer installed and added to path
 * Qemu installed and added to path
 * Text Editor (you can use atom or vscode)
-* 
 * WSL 2 should be activated on your windows
 * Windows Sub-System should be enabled
 * Hyper -V should be enabled
