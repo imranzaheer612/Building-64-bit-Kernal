@@ -5,7 +5,7 @@ You can make your own 64-bit kernal using the repo and using this tutorial [play
 
 Things you gonna need first.  
 
-* Dokcer installed and added to path
+* Docker installed and added to path
 * Qemu installed and added to path
 * Text Editor (you can use atom or vscode)
 * WSL 2 should be activated on your windows
